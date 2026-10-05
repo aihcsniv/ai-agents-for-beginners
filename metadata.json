@@ -1,0 +1,7 @@
+{
+  "name": "Apex Market Terminal",
+  "description": "High-velocity financial market terminal with real-time stock quotes, technical charts, interactive market breadth, sector heatmaps, community trading setups, and risk-free paper trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
